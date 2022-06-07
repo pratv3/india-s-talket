@@ -6,4 +6,5 @@ may be intervals can help!!
 and best thing <MADE-IN-INDIA>
 thanks!!
 india's talknet
-connecting world wide
+#always run talknetmain.py file first  
+#connecting world wide

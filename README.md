@@ -1,4 +1,4 @@
-# india-s-talket
+# india-s-talket v.2.0.0
 <img></img>![talknet](https://user-images.githubusercontent.com/74216667/236252295-aaa3d9a7-1190-4eae-9c34-1dddef3ee626.png)
 Talknet is a fast command line based tool which is directly coded from scratch uses the port number 7773 to contact
 its main aim is to connect people and give them a taste of command line tools yo just need to put your private ip and name and boom you got the connection

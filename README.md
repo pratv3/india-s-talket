@@ -5,6 +5,8 @@ it has logs file also so every attempt is recorded named talknetlogs.txt(host) a
 may be intervals can help!!
 and best thing <MADE-IN-INDIA>
 thanks!!
+<img></img>![talknet](https://user-images.githubusercontent.com/74216667/236252295-aaa3d9a7-1190-4eae-9c34-1dddef3ee626.png)
+
 india's talknet
 #always run talknetmain.py file first  
 #connecting world wide

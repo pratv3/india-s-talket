@@ -5,7 +5,7 @@ its main aim is to connect people and give them a taste of command line tools yo
 it has logs file also so every attempt is recorded named talknetlogs.txt(host) and talknetMlogs.txt(member) you can erase those logs at any time but be sure its not recomended all time
 may be intervals can help!!
 and best thing <MADE-IN-INDIA>
-<h2><font color="blue">Created by Offensive Security Project team India</font></h2>
+<h2><font color="blue">Created by Offensive Security Project team (India)</font></h2>
 thanks!!
 india's talknet
 #always run talknetmain.py file first  

@@ -1,4 +1,4 @@
-# india-s-talket v.2.0.0 🔛
+# india-s-talket v.2.1.0 🔛
 talknet is a simple and light weight alternative towards texting anonymously
 ![talknet](https://user-images.githubusercontent.com/74216667/236252295-aaa3d9a7-1190-4eae-9c34-1dddef3ee626.png)
 # What is Talknet ?

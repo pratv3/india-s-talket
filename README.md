@@ -46,6 +46,6 @@ apt-get install git && git clone https://github.com/pratv3/india-s-talket/tree/m
 ![tag](https://github.com/pratv3/india-s-talket/assets/74216667/c26b5c63-641f-411f-9eef-15dd450e8050)
 
 <p>This tool provides you industry level encryption and userfriendly enviorment using it as an weapon or impersonation attacks might causes legal activities  !! And we are not responsible for any misused done by this program </p>
-<a href="offsec.com">Offensive Security</a>
+<a href="https://offsec.com">Offensive Security</a>
 <a href="https://www.instagram.com/vyasprateek8/?hl=en">pratv3</a>
 

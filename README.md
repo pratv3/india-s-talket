@@ -51,6 +51,7 @@ apt-get install git && git clone https://github.com/pratv3/india-s-talket/tree/m
 
 <p> GPL-3  | &copy Talknet Project</p>
 
-Code Managed by:-<a href="https://offsec.com">Offensive Security</a>
-Program devloped by:-<a href="https://www.instagram.com/vyasprateek8/?hl=en">pratv3</a>
+project funded by <a href="https://offsec.com">Offensive security</a>
+
+Program devloped and managed by:-<a href="https://www.instagram.com/vyasprateek8/?hl=en">pratv3</a>
 
